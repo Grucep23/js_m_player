@@ -26,6 +26,24 @@ const music_list = [
         artist : 'The Kid LAROI, Justin Bieber',
         music : 'music/stay.mp3'
     },
+    {
+        img : 'images/cochoicochiu.png',
+        name : 'Có Chơi Có Chịu',
+        artist : 'Karik, OnlyC',
+        music : 'music/cochoicochiu.mp3'
+    },
+    {
+        img : 'images/thegioinaynhieunguoidenvay.png',
+        name : 'Thế Giới Này Nhiều Người Đến Vậy',
+        artist : 'Luân Tang',
+        music : 'music/thegioinaynhieunguoidenvay.mp3'
+    },
+    {
+        img : 'images/vivalavida.png',
+        name : 'Viva La Vida',
+        artist : 'Nightcore',
+        music : 'music/vivalavida.mp3'
+    },
 ];
 
 loadTrack(track_index);
